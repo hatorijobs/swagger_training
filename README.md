@@ -1,4 +1,4 @@
-# Swagger を練習した成果物
+# Summary
 
 - このリポジトリは、作者が swagger の練習をした結果の成果物です。
 - 具体的には、以下のサイトの内容を実行した結果がこのリポジトリです。
@@ -8,6 +8,10 @@
 
 - 今回、Github Pages で公開した Swagger UI の URL は以下の通り。
   - [https://hatorijobs.github.io/swagger_training/dist/index.html](https://hatorijobs.github.io/swagger_training/dist/index.html)
+
+## Usage
+
+- omit
 
 ## 感想
 
